@@ -42,7 +42,7 @@ I am an Information Technology Analyst and Developer focused on Data Science, Ma
 **Core Competencies:**
 * **Data Science:** Machine Learning algorithms, optimization (Gradient Descent), evaluation metrics, and NLP (Word2Vec).
 * **Databases:** Query optimization, indexing strategies (B-Tree, Hash, Bitmap), and relational data modeling.
-* **Languages:** Portuguese (Native), English (Advanced/Fluent), Spanish (Learning).
+* **Languages:** Portuguese (Native), English (Advanced/Fluent), Japanese (Advanced/Fluent), Spanish (Conversational/Fluent), Italian (Learning).
 
 ---
 
