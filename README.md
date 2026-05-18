@@ -40,17 +40,17 @@ I am an Information Technology Analyst and Developer focused on Data Science, Ma
 </table>
 
 **Core Competencies:**
-*   **Data Science:** Machine Learning algorithms, optimization (Gradient Descent), evaluation metrics, and NLP (Word2Vec).
-*   **Databases:** Query optimization, indexing strategies (B-Tree, Hash, Bitmap), and relational data modeling.
-*   **Languages:** Portuguese (Native), English (Advanced/Fluent), Spanish (Learning).
+* **Data Science:** Machine Learning algorithms, optimization (Gradient Descent), evaluation metrics, and NLP (Word2Vec).
+* **Databases:** Query optimization, indexing strategies (B-Tree, Hash, Bitmap), and relational data modeling.
+* **Languages:** Portuguese (Native), English (Advanced/Fluent), Spanish (Learning).
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hudsonhiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsonhiro&layout=compact&theme=radical&hide_langs_repository=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hudsonhiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Hudsonhiro's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsonhiro&layout=compact&theme=radical&hide_langs_repository=true" alt="Hudsonhiro's Top Languages" />
 </p>
 
 ---
