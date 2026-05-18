@@ -49,8 +49,8 @@ I am an Information Technology Analyst and Developer focused on Data Science, Ma
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Hudsonhiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Hudsonhiro&layout=compact&theme=radical&hide_langs_repository=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hudsonhiro&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hudsonhiro&theme=radical" alt="Profile Details" />
 </p>
 
 ---
